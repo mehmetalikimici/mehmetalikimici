@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Mehmet Ali KIMICI👋
 
-&nbsp  🔭 I completed my architecture education in 2019. Even though I love architecture, software has always been one step ahead. Now I'm on my way to becoming a software developer.
+🔭 I completed my architecture education in 2019. Even though I love architecture, software has always been one step ahead. Now I'm on my way to becoming a software developer.
 🌱I can always keep up with learning and working as a team. I'm currently focused on HTML, CSS, Javascript and React. 
 😄But it will not be limited to this in the future.
 
