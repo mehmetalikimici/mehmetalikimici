@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone, I'm Mehmet Ali KIMICI👋
+
+LOADING!!!
 
 <!--
 **mehmetalikimici/mehmetalikimici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
