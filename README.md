@@ -1,8 +1,9 @@
 ### <h1 align="center">Hi everyone, I'm Mehmet Ali KIMICI👋</h1><hr>
 
-🔭 I completed my architecture education in 2019. Even though I love architecture, software has always been one step ahead. Now I'm on my way to becoming a software developer.<br>
-🌱I can always keep up with learning and working as a team. I'm currently focused on HTML, CSS, Javascript and React. <br>
-😄But it will not be limited to this in the future.
+🔭 I completed my architecture education in 2019. Even though I love architecture, software has always been one step ahead.I have been interested in the software field since last year. Now I'm on my way to becoming a software developer.<br>
+👯 I can always keep up with learning and I can work with high motivation individually and especially as a team. I believe in writing clean and structured code to ensure maximum compatibility and performance.<br> 
+🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
+😄 But it will not be limited to this in the future.
 
 <h3>How to reach me ?</h3>
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
