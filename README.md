@@ -5,11 +5,6 @@
 🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
 😄 But it will not be limited to this in the future.
 
-<h3>How to reach me ?</h3>
-<h4>Loading..!!</h4>
-
-<h3>Skill</h3>
-!![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 <!--
 **mehmetalikimici/mehmetalikimici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
