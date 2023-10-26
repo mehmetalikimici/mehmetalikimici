@@ -4,6 +4,9 @@
 🌱I can always keep up with learning and working as a team. I'm currently focused on HTML, CSS, Javascript and React. <br>
 😄But it will not be limited to this in the future.
 
+<h2 align="center">How to reach me ?</h2>
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
 <!--
 **mehmetalikimici/mehmetalikimici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
