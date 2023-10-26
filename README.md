@@ -6,8 +6,7 @@
 😄 But it will not be limited to this in the future.
 
 <h3 align="center">How to reach me : </h3>
-![linkedin]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/mehmetalikimici/)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.kimici/)
 
 <!--
 **mehmetalikimici/mehmetalikimici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
