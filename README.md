@@ -5,7 +5,7 @@
 🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
 😄 But it will not be limited to this in the future.
 
-<h3 align="center">How to reach me : </h3>
+How to reach me :
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikimici@gmail.com)
 
 <!--
