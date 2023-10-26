@@ -5,7 +5,6 @@
 🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
 😄 But it will not be limited to this in the future.
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)}" />
 
 
 
