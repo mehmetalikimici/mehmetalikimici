@@ -5,7 +5,7 @@
 🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
 😄 But it will not be limited to this in the future.
 
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikimici@gmail.com)
 
 
 
