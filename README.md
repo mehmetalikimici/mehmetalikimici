@@ -5,6 +5,8 @@
 🌱 I'm currently focused on HTML, CSS,BOOTSTRAP, SCSS, JAVASCRIPT, REACT. <br>
 😄 But it will not be limited to this in the future.
 
+📫 How to reach me:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetalikimici/)
 
 
 
