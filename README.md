@@ -23,7 +23,7 @@
 <hr>
 
 # Statistics : <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetalikimici&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
 
 <!--
 **mehmetalikimici/mehmetalikimici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
